@@ -5,3 +5,7 @@
 body{
     background-color: aquamarine;
 }
+score{
+    font-size: 20px;
+    font: bold;
+}
