@@ -14,6 +14,12 @@ var cry2 = (Math.floor(Math.random * 111) +1);
 var cry3 = (Math.floor(Math.random * 111) +1);
 var cry4 = (Math.floor(Math.random * 111) +1);
 
+console.log(cry1);
+console.log(cry2);
+console.log(cry3);
+console.log(cry4);
+
+
 //-------Functions----------//
 
 function restart() {
