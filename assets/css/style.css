@@ -1,6 +1,15 @@
-.button {
-    height: 300px;
-    width: 350px;
+.btn {
+    height: 150px;
+    width: 150px;
+    font-display: white;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+.btn-warning{
+    color:white
+}
+.btn-warning:hover {
+    color: white;
 }
 body{
     background-color: aquamarine;
